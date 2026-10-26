@@ -1,0 +1,229 @@
+﻿mes,trabajador,categoria,concepto,devengado,ss_empresa,ss_trabajador,irpf,liquido,coste_empresa
+2024-01,Jordi Alzina Puig,Gerente,Mensual,2450.0,771.75,158.51,465.5,1825.99,3221.75
+2024-01,Laura Pons Serra,Administrativa (media jornada),Mensual,1050.0,330.75,67.93,126.0,856.07,1380.75
+2024-01,Marc Vidal,Oficial 1ª,Mensual,2150.0,677.25,139.1,301.0,1709.9,2827.25
+2024-01,Iván Moreno,Oficial 1ª,Mensual,2100.0,661.5,135.87,294.0,1670.13,2761.5
+2024-01,Rubén Ortega,Oficial 2ª,Mensual,1900.0,598.5,122.93,228.0,1549.07,2498.5
+2024-01,Abdel Benali,Oficial 2ª,Mensual,1880.0,592.2,121.64,225.6,1532.76,2472.2
+2024-02,Jordi Alzina Puig,Gerente,Mensual,2450.0,771.75,158.51,465.5,1825.99,3221.75
+2024-02,Laura Pons Serra,Administrativa (media jornada),Mensual,1050.0,330.75,67.93,126.0,856.07,1380.75
+2024-02,Marc Vidal,Oficial 1ª,Mensual,2150.0,677.25,139.1,301.0,1709.9,2827.25
+2024-02,Iván Moreno,Oficial 1ª,Mensual,2100.0,661.5,135.87,294.0,1670.13,2761.5
+2024-02,Rubén Ortega,Oficial 2ª,Mensual,1900.0,598.5,122.93,228.0,1549.07,2498.5
+2024-02,Abdel Benali,Oficial 2ª,Mensual,1880.0,592.2,121.64,225.6,1532.76,2472.2
+2024-03,Jordi Alzina Puig,Gerente,Mensual,2450.0,771.75,158.51,465.5,1825.99,3221.75
+2024-03,Laura Pons Serra,Administrativa (media jornada),Mensual,1050.0,330.75,67.93,126.0,856.07,1380.75
+2024-03,Marc Vidal,Oficial 1ª,Mensual,2150.0,677.25,139.1,301.0,1709.9,2827.25
+2024-03,Iván Moreno,Oficial 1ª,Mensual,2100.0,661.5,135.87,294.0,1670.13,2761.5
+2024-03,Rubén Ortega,Oficial 2ª,Mensual,1900.0,598.5,122.93,228.0,1549.07,2498.5
+2024-03,Abdel Benali,Oficial 2ª,Mensual,1880.0,592.2,121.64,225.6,1532.76,2472.2
+2024-04,Jordi Alzina Puig,Gerente,Mensual,2450.0,771.75,158.51,465.5,1825.99,3221.75
+2024-04,Laura Pons Serra,Administrativa (media jornada),Mensual,1050.0,330.75,67.93,126.0,856.07,1380.75
+2024-04,Marc Vidal,Oficial 1ª,Mensual,2150.0,677.25,139.1,301.0,1709.9,2827.25
+2024-04,Iván Moreno,Oficial 1ª,Mensual,2100.0,661.5,135.87,294.0,1670.13,2761.5
+2024-04,Rubén Ortega,Oficial 2ª,Mensual,1900.0,598.5,122.93,228.0,1549.07,2498.5
+2024-04,Abdel Benali,Oficial 2ª,Mensual,1880.0,592.2,121.64,225.6,1532.76,2472.2
+2024-05,Jordi Alzina Puig,Gerente,Mensual,2450.0,771.75,158.51,465.5,1825.99,3221.75
+2024-05,Laura Pons Serra,Administrativa (media jornada),Mensual,1050.0,330.75,67.93,126.0,856.07,1380.75
+2024-05,Marc Vidal,Oficial 1ª,Mensual,2150.0,677.25,139.1,301.0,1709.9,2827.25
+2024-05,Iván Moreno,Oficial 1ª,Mensual,2100.0,661.5,135.87,294.0,1670.13,2761.5
+2024-05,Rubén Ortega,Oficial 2ª,Mensual,1900.0,598.5,122.93,228.0,1549.07,2498.5
+2024-05,Abdel Benali,Oficial 2ª,Mensual,1880.0,592.2,121.64,225.6,1532.76,2472.2
+2024-06,Jordi Alzina Puig,Gerente,Mensual,2450.0,771.75,158.51,465.5,1825.99,3221.75
+2024-06,Jordi Alzina Puig,Gerente,Paga extra,2450.0,771.75,158.51,465.5,1825.99,3221.75
+2024-06,Laura Pons Serra,Administrativa (media jornada),Mensual,1050.0,330.75,67.93,126.0,856.07,1380.75
+2024-06,Laura Pons Serra,Administrativa (media jornada),Paga extra,1050.0,330.75,67.93,126.0,856.07,1380.75
+2024-06,Marc Vidal,Oficial 1ª,Mensual,2150.0,677.25,139.1,301.0,1709.9,2827.25
+2024-06,Marc Vidal,Oficial 1ª,Paga extra,2150.0,677.25,139.1,301.0,1709.9,2827.25
+2024-06,Iván Moreno,Oficial 1ª,Mensual,2100.0,661.5,135.87,294.0,1670.13,2761.5
+2024-06,Iván Moreno,Oficial 1ª,Paga extra,2100.0,661.5,135.87,294.0,1670.13,2761.5
+2024-06,Rubén Ortega,Oficial 2ª,Mensual,1900.0,598.5,122.93,228.0,1549.07,2498.5
+2024-06,Rubén Ortega,Oficial 2ª,Paga extra,1900.0,598.5,122.93,228.0,1549.07,2498.5
+2024-06,Abdel Benali,Oficial 2ª,Mensual,1880.0,592.2,121.64,225.6,1532.76,2472.2
+2024-06,Abdel Benali,Oficial 2ª,Paga extra,1880.0,592.2,121.64,225.6,1532.76,2472.2
+2024-07,Jordi Alzina Puig,Gerente,Mensual,2450.0,771.75,158.51,465.5,1825.99,3221.75
+2024-07,Laura Pons Serra,Administrativa (media jornada),Mensual,1050.0,330.75,67.93,126.0,856.07,1380.75
+2024-07,Marc Vidal,Oficial 1ª,Mensual,2150.0,677.25,139.1,301.0,1709.9,2827.25
+2024-07,Iván Moreno,Oficial 1ª,Mensual,2100.0,661.5,135.87,294.0,1670.13,2761.5
+2024-07,Rubén Ortega,Oficial 2ª,Mensual,1900.0,598.5,122.93,228.0,1549.07,2498.5
+2024-07,Abdel Benali,Oficial 2ª,Mensual,1880.0,592.2,121.64,225.6,1532.76,2472.2
+2024-08,Jordi Alzina Puig,Gerente,Mensual,2450.0,771.75,158.51,465.5,1825.99,3221.75
+2024-08,Laura Pons Serra,Administrativa (media jornada),Mensual,1050.0,330.75,67.93,126.0,856.07,1380.75
+2024-08,Marc Vidal,Oficial 1ª,Mensual,2150.0,677.25,139.1,301.0,1709.9,2827.25
+2024-08,Iván Moreno,Oficial 1ª,Mensual,2100.0,661.5,135.87,294.0,1670.13,2761.5
+2024-08,Rubén Ortega,Oficial 2ª,Mensual,1900.0,598.5,122.93,228.0,1549.07,2498.5
+2024-08,Abdel Benali,Oficial 2ª,Mensual,1880.0,592.2,121.64,225.6,1532.76,2472.2
+2024-09,Jordi Alzina Puig,Gerente,Mensual,2450.0,771.75,158.51,465.5,1825.99,3221.75
+2024-09,Laura Pons Serra,Administrativa (media jornada),Mensual,1050.0,330.75,67.93,126.0,856.07,1380.75
+2024-09,Marc Vidal,Oficial 1ª,Mensual,2150.0,677.25,139.1,301.0,1709.9,2827.25
+2024-09,Iván Moreno,Oficial 1ª,Mensual,2100.0,661.5,135.87,294.0,1670.13,2761.5
+2024-09,Rubén Ortega,Oficial 2ª,Mensual,1900.0,598.5,122.93,228.0,1549.07,2498.5
+2024-09,Abdel Benali,Oficial 2ª,Mensual,1880.0,592.2,121.64,225.6,1532.76,2472.2
+2024-10,Jordi Alzina Puig,Gerente,Mensual,2450.0,771.75,158.51,465.5,1825.99,3221.75
+2024-10,Laura Pons Serra,Administrativa (media jornada),Mensual,1050.0,330.75,67.93,126.0,856.07,1380.75
+2024-10,Marc Vidal,Oficial 1ª,Mensual,2150.0,677.25,139.1,301.0,1709.9,2827.25
+2024-10,Iván Moreno,Oficial 1ª,Mensual,2100.0,661.5,135.87,294.0,1670.13,2761.5
+2024-10,Rubén Ortega,Oficial 2ª,Mensual,1900.0,598.5,122.93,228.0,1549.07,2498.5
+2024-10,Abdel Benali,Oficial 2ª,Mensual,1880.0,592.2,121.64,225.6,1532.76,2472.2
+2024-11,Jordi Alzina Puig,Gerente,Mensual,2450.0,771.75,158.51,465.5,1825.99,3221.75
+2024-11,Laura Pons Serra,Administrativa (media jornada),Mensual,1050.0,330.75,67.93,126.0,856.07,1380.75
+2024-11,Marc Vidal,Oficial 1ª,Mensual,2150.0,677.25,139.1,301.0,1709.9,2827.25
+2024-11,Iván Moreno,Oficial 1ª,Mensual,2100.0,661.5,135.87,294.0,1670.13,2761.5
+2024-11,Rubén Ortega,Oficial 2ª,Mensual,1900.0,598.5,122.93,228.0,1549.07,2498.5
+2024-11,Abdel Benali,Oficial 2ª,Mensual,1880.0,592.2,121.64,225.6,1532.76,2472.2
+2024-12,Jordi Alzina Puig,Gerente,Mensual,2450.0,771.75,158.51,465.5,1825.99,3221.75
+2024-12,Jordi Alzina Puig,Gerente,Paga extra,2450.0,771.75,158.51,465.5,1825.99,3221.75
+2024-12,Laura Pons Serra,Administrativa (media jornada),Mensual,1050.0,330.75,67.93,126.0,856.07,1380.75
+2024-12,Laura Pons Serra,Administrativa (media jornada),Paga extra,1050.0,330.75,67.93,126.0,856.07,1380.75
+2024-12,Marc Vidal,Oficial 1ª,Mensual,2150.0,677.25,139.1,301.0,1709.9,2827.25
+2024-12,Marc Vidal,Oficial 1ª,Paga extra,2150.0,677.25,139.1,301.0,1709.9,2827.25
+2024-12,Iván Moreno,Oficial 1ª,Mensual,2100.0,661.5,135.87,294.0,1670.13,2761.5
+2024-12,Iván Moreno,Oficial 1ª,Paga extra,2100.0,661.5,135.87,294.0,1670.13,2761.5
+2024-12,Rubén Ortega,Oficial 2ª,Mensual,1900.0,598.5,122.93,228.0,1549.07,2498.5
+2024-12,Rubén Ortega,Oficial 2ª,Paga extra,1900.0,598.5,122.93,228.0,1549.07,2498.5
+2024-12,Abdel Benali,Oficial 2ª,Mensual,1880.0,592.2,121.64,225.6,1532.76,2472.2
+2024-12,Abdel Benali,Oficial 2ª,Paga extra,1880.0,592.2,121.64,225.6,1532.76,2472.2
+2025-01,Jordi Alzina Puig,Gerente,Mensual,2535.75,798.76,164.06,481.79,1889.9,3334.51
+2025-01,Laura Pons Serra,Administrativa (media jornada),Mensual,1086.75,342.33,70.31,130.41,886.03,1429.08
+2025-01,Marc Vidal,Oficial 1ª,Mensual,2225.25,700.95,143.97,311.54,1769.74,2926.2
+2025-01,Iván Moreno,Oficial 1ª,Mensual,2173.5,684.65,140.63,304.29,1728.58,2858.15
+2025-01,Rubén Ortega,Oficial 2ª,Mensual,1966.5,619.45,127.23,235.98,1603.29,2585.95
+2025-01,Abdel Benali,Oficial 2ª,Mensual,1945.8,612.93,125.89,233.5,1586.41,2558.73
+2025-02,Jordi Alzina Puig,Gerente,Mensual,2535.75,798.76,164.06,481.79,1889.9,3334.51
+2025-02,Laura Pons Serra,Administrativa (media jornada),Mensual,1086.75,342.33,70.31,130.41,886.03,1429.08
+2025-02,Marc Vidal,Oficial 1ª,Mensual,2225.25,700.95,143.97,311.54,1769.74,2926.2
+2025-02,Iván Moreno,Oficial 1ª,Mensual,2173.5,684.65,140.63,304.29,1728.58,2858.15
+2025-02,Rubén Ortega,Oficial 2ª,Mensual,1966.5,619.45,127.23,235.98,1603.29,2585.95
+2025-02,Abdel Benali,Oficial 2ª,Mensual,1945.8,612.93,125.89,233.5,1586.41,2558.73
+2025-03,Jordi Alzina Puig,Gerente,Mensual,2535.75,798.76,164.06,481.79,1889.9,3334.51
+2025-03,Laura Pons Serra,Administrativa (media jornada),Mensual,1086.75,342.33,70.31,130.41,886.03,1429.08
+2025-03,Marc Vidal,Oficial 1ª,Mensual,2225.25,700.95,143.97,311.54,1769.74,2926.2
+2025-03,Iván Moreno,Oficial 1ª,Mensual,2173.5,684.65,140.63,304.29,1728.58,2858.15
+2025-03,Rubén Ortega,Oficial 2ª,Mensual,1966.5,619.45,127.23,235.98,1603.29,2585.95
+2025-03,Abdel Benali,Oficial 2ª,Mensual,1945.8,612.93,125.89,233.5,1586.41,2558.73
+2025-04,Jordi Alzina Puig,Gerente,Mensual,2535.75,798.76,164.06,481.79,1889.9,3334.51
+2025-04,Laura Pons Serra,Administrativa (media jornada),Mensual,1086.75,342.33,70.31,130.41,886.03,1429.08
+2025-04,Marc Vidal,Oficial 1ª,Mensual,2225.25,700.95,143.97,311.54,1769.74,2926.2
+2025-04,Iván Moreno,Oficial 1ª,Mensual,2173.5,684.65,140.63,304.29,1728.58,2858.15
+2025-04,Rubén Ortega,Oficial 2ª,Mensual,1966.5,619.45,127.23,235.98,1603.29,2585.95
+2025-04,Abdel Benali,Oficial 2ª,Mensual,1945.8,612.93,125.89,233.5,1586.41,2558.73
+2025-05,Jordi Alzina Puig,Gerente,Mensual,2535.75,798.76,164.06,481.79,1889.9,3334.51
+2025-05,Laura Pons Serra,Administrativa (media jornada),Mensual,1086.75,342.33,70.31,130.41,886.03,1429.08
+2025-05,Marc Vidal,Oficial 1ª,Mensual,2225.25,700.95,143.97,311.54,1769.74,2926.2
+2025-05,Iván Moreno,Oficial 1ª,Mensual,2173.5,684.65,140.63,304.29,1728.58,2858.15
+2025-05,Rubén Ortega,Oficial 2ª,Mensual,1966.5,619.45,127.23,235.98,1603.29,2585.95
+2025-05,Abdel Benali,Oficial 2ª,Mensual,1945.8,612.93,125.89,233.5,1586.41,2558.73
+2025-06,Jordi Alzina Puig,Gerente,Mensual,2535.75,798.76,164.06,481.79,1889.9,3334.51
+2025-06,Jordi Alzina Puig,Gerente,Paga extra,2535.75,798.76,164.06,481.79,1889.9,3334.51
+2025-06,Laura Pons Serra,Administrativa (media jornada),Mensual,1086.75,342.33,70.31,130.41,886.03,1429.08
+2025-06,Laura Pons Serra,Administrativa (media jornada),Paga extra,1086.75,342.33,70.31,130.41,886.03,1429.08
+2025-06,Marc Vidal,Oficial 1ª,Mensual,2225.25,700.95,143.97,311.54,1769.74,2926.2
+2025-06,Marc Vidal,Oficial 1ª,Paga extra,2225.25,700.95,143.97,311.54,1769.74,2926.2
+2025-06,Iván Moreno,Oficial 1ª,Mensual,2173.5,684.65,140.63,304.29,1728.58,2858.15
+2025-06,Iván Moreno,Oficial 1ª,Paga extra,2173.5,684.65,140.63,304.29,1728.58,2858.15
+2025-06,Rubén Ortega,Oficial 2ª,Mensual,1966.5,619.45,127.23,235.98,1603.29,2585.95
+2025-06,Rubén Ortega,Oficial 2ª,Paga extra,1966.5,619.45,127.23,235.98,1603.29,2585.95
+2025-06,Abdel Benali,Oficial 2ª,Mensual,1945.8,612.93,125.89,233.5,1586.41,2558.73
+2025-06,Abdel Benali,Oficial 2ª,Paga extra,1945.8,612.93,125.89,233.5,1586.41,2558.73
+2025-07,Jordi Alzina Puig,Gerente,Mensual,2535.75,798.76,164.06,481.79,1889.9,3334.51
+2025-07,Laura Pons Serra,Administrativa (media jornada),Mensual,1086.75,342.33,70.31,130.41,886.03,1429.08
+2025-07,Marc Vidal,Oficial 1ª,Mensual,2225.25,700.95,143.97,311.54,1769.74,2926.2
+2025-07,Iván Moreno,Oficial 1ª,Mensual,2173.5,684.65,140.63,304.29,1728.58,2858.15
+2025-07,Rubén Ortega,Oficial 2ª,Mensual,1966.5,619.45,127.23,235.98,1603.29,2585.95
+2025-07,Abdel Benali,Oficial 2ª,Mensual,1945.8,612.93,125.89,233.5,1586.41,2558.73
+2025-08,Jordi Alzina Puig,Gerente,Mensual,2535.75,798.76,164.06,481.79,1889.9,3334.51
+2025-08,Laura Pons Serra,Administrativa (media jornada),Mensual,1086.75,342.33,70.31,130.41,886.03,1429.08
+2025-08,Marc Vidal,Oficial 1ª,Mensual,2225.25,700.95,143.97,311.54,1769.74,2926.2
+2025-08,Iván Moreno,Oficial 1ª,Mensual,2173.5,684.65,140.63,304.29,1728.58,2858.15
+2025-08,Rubén Ortega,Oficial 2ª,Mensual,1966.5,619.45,127.23,235.98,1603.29,2585.95
+2025-08,Abdel Benali,Oficial 2ª,Mensual,1945.8,612.93,125.89,233.5,1586.41,2558.73
+2025-09,Jordi Alzina Puig,Gerente,Mensual,2535.75,798.76,164.06,481.79,1889.9,3334.51
+2025-09,Laura Pons Serra,Administrativa (media jornada),Mensual,1086.75,342.33,70.31,130.41,886.03,1429.08
+2025-09,Marc Vidal,Oficial 1ª,Mensual,2225.25,700.95,143.97,311.54,1769.74,2926.2
+2025-09,Iván Moreno,Oficial 1ª,Mensual,2173.5,684.65,140.63,304.29,1728.58,2858.15
+2025-09,Rubén Ortega,Oficial 2ª,Mensual,1966.5,619.45,127.23,235.98,1603.29,2585.95
+2025-09,Abdel Benali,Oficial 2ª,Mensual,1945.8,612.93,125.89,233.5,1586.41,2558.73
+2025-10,Jordi Alzina Puig,Gerente,Mensual,2535.75,798.76,164.06,481.79,1889.9,3334.51
+2025-10,Laura Pons Serra,Administrativa (media jornada),Mensual,1086.75,342.33,70.31,130.41,886.03,1429.08
+2025-10,Marc Vidal,Oficial 1ª,Mensual,2225.25,700.95,143.97,311.54,1769.74,2926.2
+2025-10,Iván Moreno,Oficial 1ª,Mensual,2173.5,684.65,140.63,304.29,1728.58,2858.15
+2025-10,Rubén Ortega,Oficial 2ª,Mensual,1966.5,619.45,127.23,235.98,1603.29,2585.95
+2025-10,Abdel Benali,Oficial 2ª,Mensual,1945.8,612.93,125.89,233.5,1586.41,2558.73
+2025-11,Jordi Alzina Puig,Gerente,Mensual,2535.75,798.76,164.06,481.79,1889.9,3334.51
+2025-11,Laura Pons Serra,Administrativa (media jornada),Mensual,1086.75,342.33,70.31,130.41,886.03,1429.08
+2025-11,Marc Vidal,Oficial 1ª,Mensual,2225.25,700.95,143.97,311.54,1769.74,2926.2
+2025-11,Iván Moreno,Oficial 1ª,Mensual,2173.5,684.65,140.63,304.29,1728.58,2858.15
+2025-11,Rubén Ortega,Oficial 2ª,Mensual,1966.5,619.45,127.23,235.98,1603.29,2585.95
+2025-11,Abdel Benali,Oficial 2ª,Mensual,1945.8,612.93,125.89,233.5,1586.41,2558.73
+2025-12,Jordi Alzina Puig,Gerente,Mensual,2535.75,798.76,164.06,481.79,1889.9,3334.51
+2025-12,Jordi Alzina Puig,Gerente,Paga extra,2535.75,798.76,164.06,481.79,1889.9,3334.51
+2025-12,Laura Pons Serra,Administrativa (media jornada),Mensual,1086.75,342.33,70.31,130.41,886.03,1429.08
+2025-12,Laura Pons Serra,Administrativa (media jornada),Paga extra,1086.75,342.33,70.31,130.41,886.03,1429.08
+2025-12,Marc Vidal,Oficial 1ª,Mensual,2225.25,700.95,143.97,311.54,1769.74,2926.2
+2025-12,Marc Vidal,Oficial 1ª,Paga extra,2225.25,700.95,143.97,311.54,1769.74,2926.2
+2025-12,Iván Moreno,Oficial 1ª,Mensual,2173.5,684.65,140.63,304.29,1728.58,2858.15
+2025-12,Iván Moreno,Oficial 1ª,Paga extra,2173.5,684.65,140.63,304.29,1728.58,2858.15
+2025-12,Rubén Ortega,Oficial 2ª,Mensual,1966.5,619.45,127.23,235.98,1603.29,2585.95
+2025-12,Rubén Ortega,Oficial 2ª,Paga extra,1966.5,619.45,127.23,235.98,1603.29,2585.95
+2025-12,Abdel Benali,Oficial 2ª,Mensual,1945.8,612.93,125.89,233.5,1586.41,2558.73
+2025-12,Abdel Benali,Oficial 2ª,Paga extra,1945.8,612.93,125.89,233.5,1586.41,2558.73
+2026-01,Jordi Alzina Puig,Gerente,Mensual,2621.5,825.77,169.61,498.08,1953.81,3447.27
+2026-01,Laura Pons Serra,Administrativa (media jornada),Mensual,1123.5,353.9,72.69,134.82,915.99,1477.4
+2026-01,Marc Vidal,Oficial 1ª,Mensual,2300.5,724.66,148.84,322.07,1829.59,3025.16
+2026-01,Iván Moreno,Oficial 1ª,Mensual,2247.0,707.8,145.38,314.58,1787.04,2954.8
+2026-01,Rubén Ortega,Oficial 2ª,Mensual,2033.0,640.39,131.54,243.96,1657.5,2673.39
+2026-01,Abdel Benali,Oficial 2ª,Mensual,2011.6,633.65,130.15,241.39,1640.06,2645.25
+2026-02,Jordi Alzina Puig,Gerente,Mensual,2621.5,825.77,169.61,498.08,1953.81,3447.27
+2026-02,Laura Pons Serra,Administrativa (media jornada),Mensual,1123.5,353.9,72.69,134.82,915.99,1477.4
+2026-02,Marc Vidal,Oficial 1ª,Mensual,2300.5,724.66,148.84,322.07,1829.59,3025.16
+2026-02,Iván Moreno,Oficial 1ª,Mensual,2247.0,707.8,145.38,314.58,1787.04,2954.8
+2026-02,Rubén Ortega,Oficial 2ª,Mensual,2033.0,640.39,131.54,243.96,1657.5,2673.39
+2026-02,Abdel Benali,Oficial 2ª,Mensual,2011.6,633.65,130.15,241.39,1640.06,2645.25
+2026-03,Jordi Alzina Puig,Gerente,Mensual,2621.5,825.77,169.61,498.08,1953.81,3447.27
+2026-03,Laura Pons Serra,Administrativa (media jornada),Mensual,1123.5,353.9,72.69,134.82,915.99,1477.4
+2026-03,Marc Vidal,Oficial 1ª,Mensual,2300.5,724.66,148.84,322.07,1829.59,3025.16
+2026-03,Iván Moreno,Oficial 1ª,Mensual,2247.0,707.8,145.38,314.58,1787.04,2954.8
+2026-03,Rubén Ortega,Oficial 2ª,Mensual,2033.0,640.39,131.54,243.96,1657.5,2673.39
+2026-03,Abdel Benali,Oficial 2ª,Mensual,2011.6,633.65,130.15,241.39,1640.06,2645.25
+2026-04,Jordi Alzina Puig,Gerente,Mensual,2621.5,825.77,169.61,498.08,1953.81,3447.27
+2026-04,Laura Pons Serra,Administrativa (media jornada),Mensual,1123.5,353.9,72.69,134.82,915.99,1477.4
+2026-04,Marc Vidal,Oficial 1ª,Mensual,2300.5,724.66,148.84,322.07,1829.59,3025.16
+2026-04,Iván Moreno,Oficial 1ª,Mensual,2247.0,707.8,145.38,314.58,1787.04,2954.8
+2026-04,Rubén Ortega,Oficial 2ª,Mensual,2033.0,640.39,131.54,243.96,1657.5,2673.39
+2026-04,Abdel Benali,Oficial 2ª,Mensual,2011.6,633.65,130.15,241.39,1640.06,2645.25
+2026-05,Jordi Alzina Puig,Gerente,Mensual,2621.5,825.77,169.61,498.08,1953.81,3447.27
+2026-05,Laura Pons Serra,Administrativa (media jornada),Mensual,1123.5,353.9,72.69,134.82,915.99,1477.4
+2026-05,Marc Vidal,Oficial 1ª,Mensual,2300.5,724.66,148.84,322.07,1829.59,3025.16
+2026-05,Iván Moreno,Oficial 1ª,Mensual,2247.0,707.8,145.38,314.58,1787.04,2954.8
+2026-05,Rubén Ortega,Oficial 2ª,Mensual,2033.0,640.39,131.54,243.96,1657.5,2673.39
+2026-05,Abdel Benali,Oficial 2ª,Mensual,2011.6,633.65,130.15,241.39,1640.06,2645.25
+2026-06,Jordi Alzina Puig,Gerente,Mensual,2621.5,825.77,169.61,498.08,1953.81,3447.27
+2026-06,Jordi Alzina Puig,Gerente,Paga extra,2621.5,825.77,169.61,498.08,1953.81,3447.27
+2026-06,Laura Pons Serra,Administrativa (media jornada),Mensual,1123.5,353.9,72.69,134.82,915.99,1477.4
+2026-06,Laura Pons Serra,Administrativa (media jornada),Paga extra,1123.5,353.9,72.69,134.82,915.99,1477.4
+2026-06,Marc Vidal,Oficial 1ª,Mensual,2300.5,724.66,148.84,322.07,1829.59,3025.16
+2026-06,Marc Vidal,Oficial 1ª,Paga extra,2300.5,724.66,148.84,322.07,1829.59,3025.16
+2026-06,Iván Moreno,Oficial 1ª,Mensual,2247.0,707.8,145.38,314.58,1787.04,2954.8
+2026-06,Iván Moreno,Oficial 1ª,Paga extra,2247.0,707.8,145.38,314.58,1787.04,2954.8
+2026-06,Rubén Ortega,Oficial 2ª,Mensual,2033.0,640.39,131.54,243.96,1657.5,2673.39
+2026-06,Rubén Ortega,Oficial 2ª,Paga extra,2033.0,640.39,131.54,243.96,1657.5,2673.39
+2026-06,Abdel Benali,Oficial 2ª,Mensual,2011.6,633.65,130.15,241.39,1640.06,2645.25
+2026-06,Abdel Benali,Oficial 2ª,Paga extra,2011.6,633.65,130.15,241.39,1640.06,2645.25
+2026-07,Jordi Alzina Puig,Gerente,Mensual,2621.5,825.77,169.61,498.08,1953.81,3447.27
+2026-07,Laura Pons Serra,Administrativa (media jornada),Mensual,1123.5,353.9,72.69,134.82,915.99,1477.4
+2026-07,Marc Vidal,Oficial 1ª,Mensual,2300.5,724.66,148.84,322.07,1829.59,3025.16
+2026-07,Iván Moreno,Oficial 1ª,Mensual,2247.0,707.8,145.38,314.58,1787.04,2954.8
+2026-07,Rubén Ortega,Oficial 2ª,Mensual,2033.0,640.39,131.54,243.96,1657.5,2673.39
+2026-07,Abdel Benali,Oficial 2ª,Mensual,2011.6,633.65,130.15,241.39,1640.06,2645.25
+2026-08,Jordi Alzina Puig,Gerente,Mensual,2621.5,825.77,169.61,498.08,1953.81,3447.27
+2026-08,Laura Pons Serra,Administrativa (media jornada),Mensual,1123.5,353.9,72.69,134.82,915.99,1477.4
+2026-08,Marc Vidal,Oficial 1ª,Mensual,2300.5,724.66,148.84,322.07,1829.59,3025.16
+2026-08,Iván Moreno,Oficial 1ª,Mensual,2247.0,707.8,145.38,314.58,1787.04,2954.8
+2026-08,Rubén Ortega,Oficial 2ª,Mensual,2033.0,640.39,131.54,243.96,1657.5,2673.39
+2026-08,Abdel Benali,Oficial 2ª,Mensual,2011.6,633.65,130.15,241.39,1640.06,2645.25
+2026-09,Jordi Alzina Puig,Gerente,Mensual,2621.5,825.77,169.61,498.08,1953.81,3447.27
+2026-09,Laura Pons Serra,Administrativa (media jornada),Mensual,1123.5,353.9,72.69,134.82,915.99,1477.4
+2026-09,Marc Vidal,Oficial 1ª,Mensual,2300.5,724.66,148.84,322.07,1829.59,3025.16
+2026-09,Iván Moreno,Oficial 1ª,Mensual,2247.0,707.8,145.38,314.58,1787.04,2954.8
+2026-09,Rubén Ortega,Oficial 2ª,Mensual,2033.0,640.39,131.54,243.96,1657.5,2673.39
+2026-09,Abdel Benali,Oficial 2ª,Mensual,2011.6,633.65,130.15,241.39,1640.06,2645.25
